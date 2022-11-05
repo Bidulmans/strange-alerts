@@ -1,0 +1,32 @@
+chat-cooldown: 10
+strings:
+  chat-alert: "§8{PLAYER} triggered an alert at {LOCATION}§8."
+  chat-hover: "§aTeleport to the player"
+  location-display: "§7({X}; {Y}; {Z}; {WORLD})"
+actions:
+  break:
+    message: "§e{PLAYER} broke {MATERIAL}§e at {LOCATION}§e."
+    objects:
+      - material: DIAMOND_ORE
+        nick: "§bdiamond"
+      - material: DEEPSLATE_DIAMOND_ORE
+        nick: "§bdiamond"
+      - material: ANCIENT_DEBRIS
+        nick: "§4netherite"
+  place:
+    message: "§e{PLAYER} placed {MATERIAL}§e at {LOCATION}§e."
+    objects:
+      - material: TNT
+        nick: "§cTNT"
+  empty:
+    message: "§e{PLAYER} placed {MATERIAL}§e at {LOCATION}§e."
+    objects:
+      - material: LAVA_BUCKET
+        nick: "§6lava"
+  right-click:
+    message: "§e{PLAYER} used {MATERIAL}§e at {LOCATION}§e."
+    objects:
+      - material: FLINT_AND_STEEL
+        nick: "§4flint and steel"
+      - material: FIRE_CHARGE
+        nick: "§4fire charge"

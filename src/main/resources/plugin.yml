@@ -1,0 +1,9 @@
+main: eu.bidulaxstudio.strangealerts.StrangeAlerts
+name: StrangeAlerts
+version: 1.0
+api-version: 1.19
+author: Bidulman
+permissions:
+  strangealerts.view:
+    description: "Can see the alerts displayed by the plugin."
+    default: op
