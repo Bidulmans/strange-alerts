@@ -1,4 +1,4 @@
-main: eu.bidulaxstudio.strangealerts.StrangeAlerts
+main: eu.bidulman.strangealerts.StrangeAlerts
 name: StrangeAlerts
 version: 1.0
 api-version: 1.19
