@@ -1,4 +1,4 @@
-package eu.bidulman.strangealerts.utils;
+package fr.bidulman.strangealerts.utils;
 
 import org.bukkit.Material;
 

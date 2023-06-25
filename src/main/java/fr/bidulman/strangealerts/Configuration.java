@@ -1,7 +1,7 @@
-package eu.bidulman.strangealerts;
+package fr.bidulman.strangealerts;
 
-import eu.bidulman.strangealerts.utils.Object;
-import eu.bidulman.strangealerts.utils.ObjectList;
+import fr.bidulman.strangealerts.utils.Object;
+import fr.bidulman.strangealerts.utils.ObjectList;
 import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
 

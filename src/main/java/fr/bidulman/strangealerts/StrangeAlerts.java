@@ -1,6 +1,6 @@
-package eu.bidulman.strangealerts;
+package fr.bidulman.strangealerts;
 
-import eu.bidulman.strangealerts.utils.Object;
+import fr.bidulman.strangealerts.utils.Object;
 import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.BaseComponent;
 import net.md_5.bungee.api.chat.ClickEvent;
